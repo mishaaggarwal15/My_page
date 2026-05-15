@@ -1,0 +1,9 @@
+{
+  "name": "Strategic Architect",
+  "description": "High-authority personal brand website and RevOps pipeline for an LBS and Bain alumnus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
